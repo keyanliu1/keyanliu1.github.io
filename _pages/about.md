@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D candidate at the University of Helsinki. My research focuses on applied and theoretical econometrics. I will be joining ihe the 2024/2025 job market.
+I am a Ph.D candidate at the University of Helsinki. My research focuses on applied and theoretical econometrics. I will be joining in the 2024/2025 job market.
 
 Contact information:
 Economicum A 211
