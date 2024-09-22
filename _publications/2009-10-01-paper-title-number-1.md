@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1629940)
 date: 2023-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://keyanliu1.github.io/keyanliu/files/paper11.pdf'
 
 ---
 
