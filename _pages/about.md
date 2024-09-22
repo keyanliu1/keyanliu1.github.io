@@ -1,5 +1,5 @@
 ---
-title: "Keyan Liu Academic Page"
+title: "Keyan Liu"
 permalink: /
 author_profile: true
 redirect_from: 
