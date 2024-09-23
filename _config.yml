@@ -22,8 +22,6 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Keyan Liu" 
-  bio              : "Ph.D candidate in Economics"
   location         : "Helsinki,Finland"
   employer         : "University of Helsinki"
   uri              : # URL
