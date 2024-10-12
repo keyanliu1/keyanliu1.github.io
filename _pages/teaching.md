@@ -9,6 +9,8 @@ author_profile: true
 
 ## Teaching Experience
 
+## University of Helsinki
+
 ### Lecturer
 - **Econometrics 1**  
   Semester: Fall 2024  
@@ -23,7 +25,7 @@ author_profile: true
   
 
 - **Advanced Econometrics 3**  
-  Semester: Spring 2024  
+  Semester: Spring 2022  
  
 
 
