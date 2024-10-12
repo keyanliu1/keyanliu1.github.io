@@ -23,7 +23,7 @@ author_profile: true
   
 
 - **Advanced Econometrics 3**  
-  Semester: Spring 2023  
+  Semester: Spring 2024  
  
 
 
