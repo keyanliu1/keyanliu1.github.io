@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'https://github.com/keyanliu1/keyanliu/blob/master/files/Identifying%20Structural%20Vector%20Autoregression%20via%20Leptokurtic%20Economic%20Shocks%20(1).pdf'
+paperurl: 'http://keyanliu/files/paper11'
 ---
 
 ## My Curriculum Vitae (CV)
