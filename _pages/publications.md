@@ -14,14 +14,14 @@ author_profile: true
 
 ### **Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks (with Markku Lanne and Jani Luoto, Revise &amp; Resubmit at Journal of Business &amp; Economic Statistics)**
 - [**Current Version (PDF)**](https://keyanliu1.github.io/keyanliu/files/Paper2.pdf)
-- 
+  
 **Abstract:** We show that all shocks in an $n$-dimensional structural vector autoregression (SVAR) are globally identified up to their order and signs if they are orthogonal and either (i) have zero co-skewness and at most one of them is not skewed or (ii) exhibit no excess co-kurtosis and at least $n-1$ of them are leptokurtic. The former case covers SVAR models with errors following dependent volatility processes. Moreover, if the numbers of both skewed and leptokurtic shocks are smaller than $n-1$, the skewed and leptokurtic shocks are globally identified, while the remaining shocks are set identified. To capture the non-Gaussian features of the data, versatile error distributions are needed. We discuss the Bayesian implementation of an SVAR-GARCH model with skewed \textit{t}-distributed errors, including the assessment of the strength of identification and checking the validity of exogenous instruments potentially used for identification. The methods are illustrated in an empirical application to the oil market.
 
 ### Peer-reviewed Papers
 
 ### **Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks (with Markku Lanne and Jani Luoto, Journal of Business &amp; Economic Statistics, 2023)**  
 - [**Published Version (PDF)**](https://keyanliu1.github.io/keyanliu/files/Paper11.pdf)
-- 
+  
 **Abstract:** We revisit the generalized method of moments (GMM) estimation of the non-Gaussian structural vector autoregressive (SVAR) model. It is shown that in the $n$-dimensional SVAR model, global and local identification of the contemporaneous impact matrix is achieved with as few as $n^2+n(n-1)/2$ suitably selected moment conditions, when at least $n-1$ of the structural errors are all  leptokurtic (or platykurtic). We also relax the potentially problematic assumption of mutually independent structural errors in part of the previous literature to the requirement that the errors be mutually uncorrelated. Moreover, we assume the error term to be only serially uncorrelated, not independent in time, which allows for univariate conditional heteroskedasticity in its components. A small simulation experiment highlights the good properties of the estimator and the proposed moment selection procedure. The use of the methods is illustrated by means of an empirical application to the effect of a tax increase on U.S. gasoline consumption and carbon dioxide emissions.
 
 ### Work in Progress
