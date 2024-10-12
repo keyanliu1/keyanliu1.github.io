@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-## Teaching Experience
-
 ## University of Helsinki
 
 ### Lecturer
