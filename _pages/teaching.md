@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+
 
 ## Teaching Experience
 
@@ -26,6 +26,4 @@ author_profile: true
   Semester: Spring 2023  
  
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
