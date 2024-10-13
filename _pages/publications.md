@@ -19,7 +19,7 @@ author_profile: true
 
 
 ### <strong>Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks</strong> 
-(with Markku Lanne and Jani Luoto, Revise &amp; Resubmit at *Journal of Business &amp; Economic Statistics*)
+(with Markku Lanne and Jani Luoto). Revise &amp; Resubmit at *Journal of Business &amp; Economic Statistics*
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract2')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;">Abstract</a> <a href="https://keyanliu1.github.io/keyanliu/files/Paper2.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
@@ -31,7 +31,7 @@ author_profile: true
 ## Publications
 
 ### <strong>Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks</strong> 
-(with Markku Lanne and Jani Luoto, *Journal of Business &amp; Economic Statistics*, 2023)
+(with Markku Lanne and Jani Luoto). *Journal of Business &amp; Economic Statistics*, 2023)
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract3')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;">Abstract</a> <a href="https://keyanliu1.github.io/keyanliu/files/Paper11.pdf" style="font-size: 12px;"><strong>Published Version (PDF)</strong></a>
 
