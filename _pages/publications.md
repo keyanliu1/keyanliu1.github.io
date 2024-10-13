@@ -7,7 +7,7 @@ author_profile: true
 
 # Working Papers
 
-### **Non-Gaussian Structural Vector Autoregression with Unknown Break Points (Job market paper)**
+### **Non-Gaussian Structural Vector Autoregression with Unknown Break Points** (Job market paper)
 
 <a href="https://keyanliu1.github.io/keyanliu/files/non-gaussian-svar-break-points.pdf" style="font-size: 12px;">**Current Version (PDF)**</a>
 
