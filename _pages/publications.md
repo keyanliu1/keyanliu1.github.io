@@ -7,7 +7,8 @@ author_profile: true
 
 ## Working Papers
 
-### <strong>Non-Gaussian Structural Vector Autoregression with Unknown Break Points</strong> (Job market paper)
+### <strong>Non-Gaussian Structural Vector Autoregression with Unknown Break Points</strong> 
+(Job market paper)
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract1')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;"> Abstract</a> <a href="https://keyanliu1.github.io/keyanliu/files/non-gaussian-svar-break-points.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
@@ -17,7 +18,8 @@ author_profile: true
 
 
 
-### <strong>Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks</strong> (with Markku Lanne and Jani Luoto, Revise &amp; Resubmit at Journal of Business &amp; Economic Statistics)
+### <strong>Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks</strong> 
+(with Markku Lanne and Jani Luoto, Revise &amp; Resubmit at Journal of Business &amp; Economic Statistics)
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract2')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;">Abstract</a> <a href="https://keyanliu1.github.io/keyanliu/files/Paper2.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
@@ -29,7 +31,8 @@ author_profile: true
 
 ## Publications
 
-### <strong>Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks</strong> (with Markku Lanne and Jani Luoto, Journal of Business &amp; Economic Statistics, 2023)
+### <strong>Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks</strong> 
+(with Markku Lanne and Jani Luoto, Journal of Business &amp; Economic Statistics, 2023)
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract3')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;">Abstract</a> <a href="https://keyanliu1.github.io/keyanliu/files/Paper11.pdf" style="font-size: 12px;"><strong>Published Version (PDF)</strong></a>
 
@@ -42,7 +45,8 @@ author_profile: true
 
 ## Working in Progress
 
-### <strong>Inference for Weakly identified Non-Gaussian Structural Vector Autoregression</strong> (with Jani Luoto)
+### <strong>Inference for Weakly identified Non-Gaussian Structural Vector Autoregression</strong> 
+(with Jani Luoto)
 
 <script>
 function toggleAbstract(id) {
