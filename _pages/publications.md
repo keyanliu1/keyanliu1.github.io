@@ -31,7 +31,7 @@ author_profile: true
 ## Publications
 
 ### <strong>Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks</strong> 
-(with Markku Lanne and Jani Luoto). *Journal of Business &amp; Economic Statistics*, 2023)
+(with Markku Lanne and Jani Luoto). *Journal of Business &amp; Economic Statistics*, 2023
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract3')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;">Abstract</a> <a href="https://keyanliu1.github.io/keyanliu/files/Paper11.pdf" style="font-size: 12px;"><strong>Published Version (PDF)</strong></a>
 
