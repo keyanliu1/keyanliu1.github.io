@@ -7,18 +7,18 @@ author_profile: true
 
 # Working Papers
 
-### **Non-Gaussian Structural Vector Autoregression with Unknown Break Points** *(Job market paper)*
+### <strong>Non-Gaussian Structural Vector Autoregression with Unknown Break Points</strong> (Job market paper)
 
-<a href="https://keyanliu1.github.io/keyanliu/files/non-gaussian-svar-break-points.pdf" style="font-size: 12px;">**Current Version (PDF)**</a>
+<a href="https://keyanliu1.github.io/keyanliu/files/non-gaussian-svar-break-points.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
 <button onclick="toggleAbstract('abstract1')" style="font-size: 12px; padding: 5px 10px;">Show/Hide Abstract</button>
 <div id="abstract1" style="display:none;">
   <p>In this paper, I consider testing and estimating non-Gaussian Structural Vector Autoregressive models with unknown break points (SVAR-BP). This model extends traditional SVAR analysis by allowing for unknown breakpoints, capturing potential changes in both autoregressive coefficients and structural parameters. I employ the Partial Sample Generalized Method of Moments (PSGMM) to estimate the model and utilize the sup-Wald test to assess parameter stability. Additionally, I establish the asymptotic properties of the break point estimators and propose a sequential procedure for detecting and estimating multiple break points. My method is applied to a U.S. macroeconomic dataset from 1954 to 2023, where I identify significant structural breaks corresponding to key economic events. The results demonstrate the ability of our approach to detect and estimate multiple break points, modeling shifts in the dynamics of economic variables driven by external shocks.</p>
 </div>
 
-### **Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks** *(with Markku Lanne and Jani Luoto, Revise &amp; Resubmit at Journal of Business &amp; Economic Statistics)*
+### <strong>Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks</strong> (with Markku Lanne and Jani Luoto, Revise &amp; Resubmit at Journal of Business &amp; Economic Statistics)
 
-<a href="https://keyanliu1.github.io/keyanliu/files/Paper2.pdf" style="font-size: 12px;">**Current Version (PDF)**</a>
+<a href="https://keyanliu1.github.io/keyanliu/files/Paper2.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
 <button onclick="toggleAbstract('abstract2')" style="font-size: 12px; padding: 5px 10px;">Show/Hide Abstract</button>
 <div id="abstract2" style="display:none;">
@@ -27,9 +27,9 @@ author_profile: true
 
 # Publications
 
-### **Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks** *(with Markku Lanne and Jani Luoto, Journal of Business &amp; Economic Statistics, 2023)*
+### <strong>Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks</strong> (with Markku Lanne and Jani Luoto, Journal of Business &amp; Economic Statistics, 2023)
 
-<a href="https://keyanliu1.github.io/keyanliu/files/Paper11.pdf" style="font-size: 12px;">**Published Version (PDF)**</a>
+<a href="https://keyanliu1.github.io/keyanliu/files/Paper11.pdf" style="font-size: 12px;"><strong>Published Version (PDF)</strong></a>
 
 <button onclick="toggleAbstract('abstract3')" style="font-size: 12px; padding: 5px 10px;">Show/Hide Abstract</button>
 <div id="abstract3" style="display:none;">
@@ -38,7 +38,7 @@ author_profile: true
 
 # Working in Progress
 
-### **Inference for Weakly identified Non-Gaussian Structural Vector Autoregression** *(with Jani Luoto)*
+### <strong>Inference for Weakly identified Non-Gaussian Structural Vector Autoregression</strong> (with Jani Luoto)
 
 <script>
 function toggleAbstract(id) {
