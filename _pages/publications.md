@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<br> <!-- This adds a line break to create spacing between the title and the next section -->
 
 ## Working Papers
 
