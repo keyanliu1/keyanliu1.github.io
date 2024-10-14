@@ -1,16 +1,29 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+title: "Keyan Liu"
+permalink: /
 author_profile: true
-redirect_from:
-  - /resume
-paperurl: 'http://keyanliu1.github.io/files/cv1'
+redirect_from: 
+  - /about/
+  - /about.html
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: united
+    highlight: tango
 ---
 
-## My Curriculum Vitae (CV)
+## About Me
 
-<iframe src="{{ page.paperurl }}" width="100%" height="800px" style="border: none;">
-    <p>Your browser does not support embedded PDFs. Please download the PDF using the link below:</p>
-    <a href="{{ page.paperurl }}">Download PDF</a>
-</iframe>
+I am a Ph.D. candidate at the University of Helsinki. My research focuses on applied and theoretical econometrics. I will be joining the 2024/2025 job market.
+
+## Contact Information
+
+[CV](http://keyanliu1.github.io/files/cv1)  <!-- This is the link to your CV -->
+
+**Office Address**:  
+Economicum A 211  
+Arkadiankatu 7, 00100 Helsinki  
+
+**Email**:  
+Keyan.liu [at] helsinki [dot] fi
