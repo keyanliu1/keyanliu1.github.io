@@ -13,19 +13,17 @@ output:
     highlight: tango
 ---
 
-
 ## About Me
 
 I am a Ph.D. candidate at the University of Helsinki. My research focuses on applied and theoretical econometrics. I will be joining the 2024/2025 job market.
 
 ## Contact Information
 
-**Office Address**:
+[CV](http://keyanliu1.github.io/files/cv1)  <!-- This is the link to your CV -->
+
+**Office Address**:  
 Economicum A 211  
 Arkadiankatu 7, 00100 Helsinki  
 
 **Email**:  
 Keyan.liu [at] helsinki [dot] fi
-
-
-
