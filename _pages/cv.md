@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'http://keyanliu1.github.io/files/cv'
+paperurl: 'http://keyanliu1.github.io/files/cv1'
 ---
 
 ## My Curriculum Vitae (CV)
