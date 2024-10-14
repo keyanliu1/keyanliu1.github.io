@@ -3,8 +3,8 @@ title: "Keyan Liu"
 permalink: /
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /cv/
+  - /cv.html
 output: 
   html_document:
     toc: true
