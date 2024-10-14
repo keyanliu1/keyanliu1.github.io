@@ -19,7 +19,7 @@ I am a Ph.D. candidate at the University of Helsinki. My research focuses on app
 
 ## Contact Information
 
-[CV](http://keyanliu1.github.io/files/cv1)  <!-- This is the link to your CV -->
+[CV](http://keyanliu1.github.io/files/cv1.pdf)  <!-- This is the link to your CV -->
 
 **Office Address**:  
 Economicum A 211  
