@@ -7,7 +7,7 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url: "http://keyanliu1.github.io/files/cv2.pdf"
     
   - title: "Research"
     url: /publications/
