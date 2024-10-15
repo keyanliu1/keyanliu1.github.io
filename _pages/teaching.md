@@ -11,7 +11,7 @@ author_profile: true
 ### Lecturer
 - **Econometrics 1**  
   Semester: Fall 2024  
-[Course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-87dd5e79-c221-473b-ba7b-6c298a5fbf1d)
+ [Course page](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2425-87dd5e79-c221-473b-ba7b-6c298a5fbf1d)
 
 ### Teaching Assistant
 - **Advanced Econometrics 1**  
