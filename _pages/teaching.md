@@ -18,7 +18,7 @@ author_profile: true
   
 
 - **Advanced Econometrics 2**  
-  Semester: Fall 2021, Fall 2022, Fall 2023
+  Semester: Fall 2023
   
 
 - **Advanced Econometrics 3**  
