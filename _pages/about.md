@@ -17,7 +17,7 @@ output:
 
 I am a Ph.D. candidate at the University of Helsinki. My research focuses on applied and theoretical econometrics. I am on the 2024/2025 job market.
 
-[CV](http://keyanliu1.github.io/files/cv6.pdf)  <!-- This is the link to your CV -->
+[CV](http://keyanliu1.github.io/files/cv7.pdf)  <!-- This is the link to your CV -->
 
 ## Contact Information
 
