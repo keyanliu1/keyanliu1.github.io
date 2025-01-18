@@ -10,7 +10,7 @@ author_profile: true
 ### <strong>Non-Gaussian Structural Vector Autoregression with Unknown Break Points</strong> 
 (Job market paper)
 
-<a href="javascript:void(0)" onclick="toggleAbstract('abstract1')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;"> Abstract</a> <a href="https://keyanliu1.github.io/files/jmp120125.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
+<a href="javascript:void(0)" onclick="toggleAbstract('abstract1')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;"> Abstract</a> <a href="https://keyanliu1.github.io/files/jmp_180125.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
 <div id="abstract1" style="display:none; font-size: 0.85em;">
   <p>In this paper, I consider testing and estimating non-Gaussian Structural Vector Autoregressive models with unknown break points (SVAR-BP). This model extends traditional SVAR analysis by allowing for unknown breakpoints, capturing potential changes in both autoregressive coefficients and structural parameters. I employ the Partial Sample Generalized Method of Moments (PSGMM) to estimate the model and utilize the sup-Wald test to assess parameter stability. Additionally, I establish the asymptotic properties of the break point estimators and propose a sequential procedure for detecting and estimating multiple break points. My method is applied to a U.S. macroeconomic dataset from 1954 to 2023, where I identify significant structural breaks corresponding to key economic events. The results demonstrate the ability of my approach to detect and estimate multiple break points, modeling shifts in the dynamics of economic variables.</p>
