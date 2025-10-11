@@ -42,7 +42,7 @@ author_profile: true
 
 ## Working in Progress
 
-### <strong>Inference for Weakly identified Non-Gaussian Structural Vector Autoregression</strong> 
+### <strong>Inference for Weakly identified Non-Gaussian Structural Vector Autoregressions</strong> 
 (with Jani Luoto)
 
 <script>
