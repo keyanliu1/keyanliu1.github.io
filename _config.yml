@@ -22,10 +22,10 @@ repository               : "keyanliu1/keyanliu1.github.io"
 author:
   # Biographic information
   avatar           : "Photos19.png"
-  location         : "Helsinki, Finland"
-  employer         : "University of Helsinki"
+  location         : "Wuhan, China"
+  employer         : "Wuhan University"
   uri              : # URL
-  email            : "keyan.liu@helsinki.fi" 
+  email            : "keyanliu@whu.edu.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=JqCQZAEAAAAJ&hl=en"
