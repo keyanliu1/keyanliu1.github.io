@@ -15,15 +15,15 @@ output:
 
 ## About Me
 
-I received my Ph.D. in Economics from the University of Helsinki, specializing in macroeconometrics and time series analysis. In Fall 2025, I will join the School of Economics and Management at Wuhan University as an Assistant Professor.
+I am an Assistant Professor at the School of Economics and Management, Wuhan University. My research focuses on macroeconometrics and time series analysis.
 
 [CV](http://keyanliu1.github.io/files/cv7.pdf)  <!-- This is the link to your CV -->
 
 ## Contact Information
 
 **Office Address**:  
-Economicum A 211  
-Arkadiankatu 7, 00100 Helsinki  
+School of Economics and Management 353  
+Wuhan University, 430072 Wuhan  
 
 **Email**:  
-Keyan.liu [at] helsinki [dot] fi
+Keyanliu [at] whu [dot] edu [dot] cn
