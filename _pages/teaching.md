@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Wuhan University
+
+### Lecturer
+- **Advanced Econometrics**  
+  Semester: Fall 2025 
 
 
 ## University of Helsinki
