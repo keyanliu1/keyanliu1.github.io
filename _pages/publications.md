@@ -18,17 +18,20 @@ author_profile: true
 
 
 
+
+
+
+## Publications
+
 ### <strong>Identifying Structural Vector Autoregressions via Non-Gaussianity of Potentially Dependent Structural Shocks</strong> 
-(with Markku Lanne and Jani Luoto). Revise &amp; Resubmit at *Journal of Business &amp; Economic Statistics*
+(with Markku Lanne and Jani Luoto). Revise &amp; Forthcoming at *The Econometrics Journal*
 
 <a href="javascript:void(0)" onclick="toggleAbstract('abstract2')" style="font-size: 12px; text-decoration: underline; color: #007bff; cursor: pointer;">Abstract</a> <a href="https://keyanliu1.github.io/files/Paper2.pdf" style="font-size: 12px;"><strong>Current Version (PDF)</strong></a>
 
 <div id="abstract2" style="display:none; font-size: 0.85em;">
-  <p>We show that all shocks in an $n$-dimensional structural vector autoregression (SVAR) are globally identified up to their order and signs if they are orthogonal and either (i) have zero co-skewness and at most one of them is not skewed or (ii) exhibit no excess co-kurtosis and at least $n-1$ of them are leptokurtic. The former case covers SVAR models with errors following dependent volatility processes. Moreover, if the numbers of both skewed and leptokurtic shocks are smaller than $n-1$, the skewed and leptokurtic shocks are globally identified, while the remaining shocks are set identified. To capture the non-Gaussian features of the data, versatile error distributions are needed. We discuss the Bayesian implementation of an SVAR-GARCH model with skewed <i>t</i>-distributed errors, including the assessment of the strength of identification and checking the validity of exogenous instruments potentially used for identification. The methods are illustrated in an empirical application to the oil market.</p>
+  <p>We complement previous partial global identification results for the non-Gaussian SVAR model by showing that in the absence of co-skewness among the strucural shocks, the skewed shocks are identified and in the absence of excess co-kurtosis, the shocks with nonzero excess kurtosis are identified. The former case has the advantage that dependent conditional heteroskedasticity is allowed for. In each case, the remaining shocks are set identified, and these results can be combined to identify both skewed and non-mesokurtic shocks. To capture the non-Gaussian features of the data, versatile error distributions must be specified. We discuss the Bayesian implementation of an SVAR model with skewed t-distributed errors that exhibit dependent stochastic volatility, including the assessment of identification and checking the validity of exogenous instruments potentially used for identification. The methods are illustrated in an empirical application to U.S. monetary policy.</p>
 </div>
 
-
-## Publications
 
 ### <strong>Identifying Structural Vector Autoregression via Leptokurtic Economic Shocks</strong> 
 (with Markku Lanne and Jani Luoto). *Journal of Business &amp; Economic Statistics*, 2023
